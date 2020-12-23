@@ -1,11 +1,11 @@
 # Site settings
 author: Jung Lee
-title: CLI Data Gem Project
+title: Knowing Ware in the Soft, and getting them Stacks to be Full
 header-img: img/home-bg.png
 email: lee.jung.s95@gmail.com
 copyright_name: Jung Lee
 description: > # this means to ignore newlines until "baseurl:"
-  Easy or Difficult? It depends.
+  Fullstack Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Shirkirai
